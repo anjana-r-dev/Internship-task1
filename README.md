@@ -1,11 +1,13 @@
 Python Fundamentals & GitHub Usage
 
 Name: Anjana R
-
 ## Overview
 
-**Task Title:** Task–1: GitHub Usage and Python Fundamentals
-**Objective:** Learn GitHub basics, Git workflow, and Python programming fundamentals, and submit working code in a professional repository structure.
+Task Title:  
+Task–1: GitHub Usage and Python Fundamentals
+
+Objective:  
+Learn GitHub basics, Git workflow, and Python programming fundamentals, and submit working code in a professional repository structure.
 
 ---
 
