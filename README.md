@@ -1,7 +1,6 @@
 Python Fundamentals & GitHub Usage
 
 Name: Anjana R
-Task: Task–1
 
 ## Overview
 
