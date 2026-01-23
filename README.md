@@ -1,5 +1,7 @@
+Python Fundamentals & GitHub Usage
 
-# Internship Task–1 Notes
+Name: Anjana R
+Task: Task–1
 
 ## Overview
 
